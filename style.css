@@ -53,7 +53,7 @@ body {
   margin: 70px;
   padding: 40px;
   width: 200px;
-  height: 180px;
+  height: 105px;
   border-radius: 12px;
 }
 .report-cont2 h3 {
@@ -61,6 +61,9 @@ body {
   font-weight: 100;
   font-size: 12px;
   line-height: 25px;
+}
+.rep {
+  margin-top: -20px;
 }
 .reporth h3 {
   color: rgb(179, 183, 211);
