@@ -1,0 +1,252 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(12, 19, 35);
+  font-family: "Rubik", sans-serif;
+}
+.report {
+  display: flex;
+}
+.report-sect {
+  background-color: rgb(88, 71, 234);
+  flex-direction: column;
+  margin: 70px;
+  padding: 40px;
+  width: 200px;
+  height: 300px;
+  border-radius: 12px;
+}
+.img-j img {
+  width: 65%;
+  border-radius: 50px;
+  border: 2px solid rgb(231, 230, 236);
+}
+.jere-cont {
+  margin-top: -20px;
+}
+.jere-cont h3 {
+  color: rgb(176, 168, 222);
+  font-size: 12px;
+  padding-top: 50px;
+  margin-left: 0px;
+}
+.jere-cont p {
+  color: hsl(0, 14%, 95%);
+  padding-top: 10px;
+  line-height: 20px;
+  letter-spacing: 1.5px;
+  font-size: 23px;
+  font-family: "Poppins", sans-serif;
+  margin-left: -5px;
+}
+.report-cont2 {
+  position: relative;
+  background-color: rgb(29, 32, 75);
+  top: \30px;
+  left: -110px;
+  z-index: -10001;
+  margin: 70px;
+  padding: 40px;
+  width: 200px;
+  height: 180px;
+  border-radius: 12px;
+}
+.report-cont2 h3 {
+  color: #8392b8;
+  font-weight: 100;
+  font-size: 12px;
+  line-height: 25px;
+}
+.reporth h3 {
+  color: rgb(179, 183, 211);
+  font-weight: 100;
+}
+.subsn-img {
+  background: rgb(255, 139, 100);
+  border-radius: 12px;
+  width: 180px;
+  height: 100px;
+  /* margin: 70px; */
+  margin-top: 70px;
+  margin-left: -50px;
+  padding: 40px;
+}
+.subsn-img img {
+  position: relative;
+  top: -40px;
+  left: 70px;
+  width: 50px;
+  /* background: rgb(217, 107, 70); */
+  opacity: 0.2;
+}
+.work-sub {
+  position: relative;
+  right: 120px;
+  bottom: 139px;
+  background-color: rgb(29, 32, 75);
+  margin: 70px;
+  padding: 40px;
+  width: 180px;
+  height: 150px;
+  border-radius: 12px;
+}
+.work-sub {
+  display: flex;
+}
+.sub {
+  display: flex;
+  justify-content: space-around;
+}
+.sub {
+  width: 10px;
+  height: 5px;
+}
+.sub p {
+  margin-top: -15px;
+  color: #fff;
+}
+.sub img {
+  position: relative;
+  right: -95px;
+  top: -10px;
+}
+.hrs {
+  position: relative;
+  top: -300px;
+  left: -35px;
+}
+.hrs h3 {
+  font-size: 35px;
+  color: white;
+  font-weight: 100;
+}
+.hrs p {
+  color: white;
+  font-size: 12px;
+  font-weight: 100;
+  line-height: 26px;
+}
+.second-sect {
+  margin-top: -320px;
+}
+.second-sect .subsn-img {
+  background: rgb(75, 207, 131);
+  border-radius: 12px;
+  width: 180px;
+  height: 100px;
+  /* margin: 70px; */
+  margin-top: 70px;
+  margin-left: -50px;
+  padding: 40px;
+}
+.subsn-img1 {
+  background: rgb(86, 194, 230);
+  border-radius: 12px;
+  width: 180px;
+  height: 100px;
+  /* margin: 70px; */
+  margin-top: 70px;
+  margin-left: -50px;
+  padding: 40px;
+}
+.sub2 img {
+  position: relative;
+  right: -115px;
+  top: -35px;
+}
+.sub2 p {
+  color: #fff;
+  position: relative;
+  top: -10px;
+  left: -20px;
+  line-height: 20px;
+}
+.subsn-img2 {
+  background: rgb(114, 53, 209);
+  border-radius: 12px;
+  width: 180px;
+  height: 100px;
+  /* margin: 70px; */
+  margin-top: 70px;
+  margin-left: -50px;
+  padding: 40px;
+}
+.subsn-img3 {
+  background: rgb(255, 94, 125);
+  border-radius: 12px;
+  width: 180px;
+  height: 100px;
+  /* margin: 70px; */
+  margin-top: 70px;
+  margin-left: -50px;
+  padding: 40px;
+}
+.subsn-img3 img {
+  position: relative;
+  top: -40px;
+  left: 70px;
+  width: 50px;
+  opacity: 0.4;
+}
+.subsn-img4 {
+  background: rgb(241, 199, 91);
+  border-radius: 12px;
+  width: 180px;
+  height: 100px;
+  /* margin: 70px; */
+  margin-top: 70px;
+  margin-left: -50px;
+  padding: 40px;
+}
+.subsn-img4 img {
+  position: relative;
+  top: -41px;
+  left: 80px;
+  width: 40px;
+  opacity: 0.4;
+}
+.subsn-img2 img {
+  position: relative;
+  top: -40px;
+  left: 70px;
+  width: 50px;
+  opacity: 0.4;
+}
+.subsn-img1 img {
+  position: relative;
+  top: -40px;
+  left: 70px;
+  width: 50px;
+  opacity: 0.4;
+}
+.second-sect .subsn-img img {
+  position: relative;
+  top: -38px;
+  left: 70px;
+  width: 50px;
+  opacity: 0.4;
+}
+.sub1 img {
+  position: relative;
+  right: -100px;
+  top: -30px;
+}
+.sub1 p {
+  color: #fff;
+  position: relative;
+  top: -10px;
+  left: -20px;
+  line-height: 20px;
+}
+.sect-sub {
+  margin-left: -100px;
+}
+.second-sect1 {
+  margin-left: -100px;
+  margin-top: -320px;
+}
